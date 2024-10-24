@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- Mary Ann Hollinghead
+# October 23, 2024
 """
 Created on Thu Oct  8 19:13:49 2020
 
